@@ -31,7 +31,7 @@ The project is designed to be executed in the following sequence:
     streamlit run app.py
     ```
 
-## 🛠 Model Technical Details
+## Model Technical Details
 
 ### Machine Learning (Forecasting)
 The model treats crime forecasting as a regression problem. Features include:
