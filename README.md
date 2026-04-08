@@ -50,8 +50,3 @@ The Linear Programming model is formulated as follows:
 
 ## Results
 The Gurobi-optimized deployment strategy consistently demonstrates a significant reduction in unmitigated risk compared to uniform staffing, as validated in the `Optimization.ipynb` results.
-
----
-**Author**: Nicole Thapa
-**Course**: MSE 433 - Advanced Topics in Management Engineering  
-**Institution**: University of Waterloo
